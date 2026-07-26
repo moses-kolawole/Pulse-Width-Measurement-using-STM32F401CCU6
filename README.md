@@ -27,9 +27,6 @@ This project demonstrates how to measure the width of an incoming pulse using th
 - Pulse Width Measurement
 - Register-Level Programming (Bare Metal)
 
-## Project Structure
-- `main.c`
-- `main.h`
 
 ## Author
 **Moses Kolawole**
