@@ -11,7 +11,7 @@ This project demonstrates how to measure the width of an incoming pulse using th
 [Click here to check out the project codes](code)
 
 ## Project Image
-[Click here to check out the project image](images/IMG_20260725_231949_571.jpg)
+![Click here to check out the project image](images/IMG_20260725_231949_571.jpg)
 ## Components
 - STM32F401CCU6 Black Pill
 - ST-Link V2
